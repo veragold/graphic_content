@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main-heading {
+    font-weight: normal;
+    color: #039;
+    font-size: 30px;
+}
+
+/* cartoons */
+.cartoon-set {
+    padding: 10px;
+    border: 1px solid red;
+}
+
+.cartoon-panels {
+    border: 1px solid black;
+}
+
+.cartoon-panel {
+    border: 1px solid #cdcdcd;
+    display: block;
+    margin: 5px;
+}
