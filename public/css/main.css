@@ -15,15 +15,15 @@ a {
 /* cartoons */
 .cartoon-set {
     padding: 10px;
-    border: 1px solid purple;
+    border: 1px dotted red;
 }
 
 .cartoon-panels {
-    border: 1px solid black;
+    border: 1px dotted orange;
 }
 
 .cartoon-panel {
-    border: 1px solid #cdcdcd;
+    border: 1px dotted #cfcfcf;
     display: block;
     margin: 5px;
 }
